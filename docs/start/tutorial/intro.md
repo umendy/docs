@@ -9,7 +9,7 @@ subtitle: Your first Polymer application
 
 <style>
 #download-button {
-  background: #4285f4;
+  background:#2a56c6;
   color: #fff;
   font-size: 18px;
   fill: #fff;
